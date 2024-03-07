@@ -1,3 +1,5 @@
+Classification - SKLEARN and etc
+
 Classification is a fundamental task in machine learning where the goal is to predict the categorical class labels of instances based on their features. Here, I'll provide an overview of three popular classification algorithms: K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Decision Trees.
 
 K-Nearest Neighbors (KNN):
